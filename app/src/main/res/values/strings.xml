@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JetGarage</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="required_price">%d USD</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Add To Cart : %d USD</string>
+    <string name="total_order">Total : %d USD</string>
+    <string name="back">Back</string>
+    <string name="garage_car">Garage Car</string>
+    <string name="share_message">Hi, I want to buy cars on JetGarage. Is it available?</string>
+    <string name="search_car">Find Your Car</string>
+</resources>
